@@ -14,31 +14,6 @@ body {
     padding: 0;
 }
 
-   /* Center the navigation links in the header */
-header nav {
-    text-align: center;
-}
-
-/* Center each list item horizontally */
-header nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-/* Center the navigation links horizontally */
-header nav ul li {
-    display: inline-block;
-    margin-right: 20px; /* Adjust the spacing between links as needed */
-}
-
-/* Style the links as needed */
-header nav ul li a {
-    text-decoration: none;
-    color: #333; /* Adjust the link color as needed */
-}
-
-
-
 /* Style the header and navigation menu */
 header {
     background-color: #333;
