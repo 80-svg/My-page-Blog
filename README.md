@@ -1,2 +1,2 @@
 # My-page-Blog
-My site
+Just contains some shortcuts and stuff that I would like to go to faster. kind of how yahoo was started
