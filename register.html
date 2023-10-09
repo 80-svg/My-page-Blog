@@ -12,15 +12,17 @@
             align-items: center;
             height: 100vh;
             margin: 0;
+            background-color: #121212; /* Dark background color */
+            color: #fff; /* Light text color */
         }
 
         .container {
             text-align: center;
             padding: 20px;
-            border: 1px solid #ccc;
+            border: 1px solid #333;
             border-radius: 8px;
-            background-color: #f9f9f9;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            background-color: #1f1f1f; /* Dark container background color */
+            box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1);
         }
 
         h2 {
@@ -43,7 +45,9 @@
             width: 100%;
             padding: 10px;
             font-size: 16px;
-            border: 1px solid #ccc;
+            background-color: #333; /* Dark input background color */
+            color: #fff; /* Light text color */
+            border: 1px solid #555; /* Dark border color */
             border-radius: 4px;
         }
 
@@ -58,6 +62,11 @@
             border: none;
             border-radius: 4px;
             cursor: pointer;
+            transition: background-color 0.3s ease; /* Smooth background color transition */
+        }
+
+        button:hover {
+            background-color: #0056b3; /* Darker blue on hover */
         }
 
         p {
