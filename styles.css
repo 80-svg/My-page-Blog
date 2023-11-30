@@ -1,3 +1,8 @@
+    /* Add CSS styles to center the button within the "Links" section */
+    .links {
+        text-align: center;
+    }
+
 /* Reset some default browser styles */
 body, h1, h2, p, ul, li {
     margin: 0;
