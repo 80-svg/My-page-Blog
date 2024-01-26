@@ -3,6 +3,3 @@ Just contains some shortcuts and stuff that I would like to go to faster. kind o
 
 Written by me Makis L. of course.
 Website : https://80-svg.github.io/My-page-Blog/
-
-//////Final update on github pages. Goodbye
-EDIT: at november like 3 months after I quit github pages I might return.
